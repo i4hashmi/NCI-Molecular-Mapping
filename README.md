@@ -27,7 +27,7 @@ To utilize this workflow, the following software packages are required:
 ## Repository Contents
 
 - **`/Molecules`**: Optimized `.fch` and `.log` files for the 10-molecule training set (`B3LYP/6-311+G(2d,p)`).
-- **`/Scripts`**: Custom Python/Bash automation scripts to streamline the data transition from Multiwfn output to VMD states.
+- **`/scripts`**: Custom Python/Bash automation scripts to streamline the data transition from Multiwfn output to VMD states.
 - **`/DNA_Capstone`**: Pre-calculated density files and VMD state files for the DNA fragment case study.
 - **`/Protocols`**: Comprehensive instructional materials for classroom deployment:
   - **Student Laboratory Manual**: Guided procedures for model construction, NCI analysis, and data interpretation.
