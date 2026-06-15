@@ -47,4 +47,4 @@ To utilize this workflow, the following software packages are required:
 
 If you use these scripts or the pedagogical framework in your own teaching or research, please cite our manuscript:
 
-*(Authors), et al.* **"Beyond the Dashed Line: Utilizing NCI-RDG Visualization to Map the Electronic Landscape of Molecular Interactions."** (2026).
+*Qurat Ul Ain, Tristan Dietiker, David Harnish, Muhammad Ali Hashmi1, Eihab Jaber, Ahmed Lakhani2,* **"Beyond the Dashed Line: Utilizing NCI-RDG Visualization to Map the Electronic Landscape of Molecular Interactions."** (2026).
