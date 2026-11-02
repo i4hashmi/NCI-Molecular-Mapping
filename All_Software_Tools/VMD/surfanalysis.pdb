@@ -1,0 +1,17 @@
+REMARK   Unit of B-factor field (i.e. ESP) is kcal/mol
+REMARK   Carbon: Surface maximum    Oxygen: surface minimum
+HETATM    1  C   MOL A   1      -2.333  -1.308  -2.268  1.00 -2.23          C 
+HETATM    2  C   MOL A   1      -1.676   1.002  -0.824  1.00 13.92          C 
+HETATM    3  C   MOL A   1      -0.015  -1.952  -0.828  1.00 13.93          C 
+HETATM    4  C   MOL A   1       0.002  -0.026  -3.036  1.00 20.85          C 
+HETATM    5  C   MOL A   1      -0.004  -0.030   3.148  1.00 31.90          C 
+HETATM    6  C   MOL A   1      -0.022   2.667  -2.286  1.00 -2.22          C 
+HETATM    7  C   MOL A   1       1.701   0.960  -0.844  1.00 13.91          C 
+HETATM    8  C   MOL A   1       2.296  -1.347  -2.297  1.00 -2.22          C 
+HETATM    1  O   MOL A   1      -2.345  -1.339  -1.019  1.00 -4.07          O 
+HETATM    2  O   MOL A   1      -2.106  -1.237   1.074  1.00 -3.24          O 
+HETATM    3  O   MOL A   1       0.005   2.442   1.090  1.00 -3.24          O 
+HETATM    4  O   MOL A   1       0.012   2.703  -1.026  1.00 -4.06          O 
+HETATM    5  O   MOL A   1       2.115  -1.223   1.070  1.00 -3.24          O 
+HETATM    6  O   MOL A   1       2.350  -1.310  -0.995  1.00 -4.07          O 
+END
